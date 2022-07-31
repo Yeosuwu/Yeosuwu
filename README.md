@@ -2,5 +2,5 @@
 <body>
 <div id=here>😊I'm currently learning java</div><img src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg" height="80px" width="80px">
 <div id=space></div>
-<div id=know>😁Language I know is python, c++, and javascript</div>
+<div id=know>😁Languages I know are python, c++, and javascript</div>
 </body>
