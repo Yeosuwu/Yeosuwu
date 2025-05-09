@@ -14,7 +14,7 @@
 
 ### 🧩 Projects & Activities
 - 🔧 [YeosuQoLPlus](https://github.com/Yeosuwu/YeosuQoLPlus): RimWorld Quality of Life Mod  
-
+- 🌐 [yeosuwu.com](https://yeosuwu.com): My personal intro + contact hub  
 ---
 
 ### 📫 Reach Me
