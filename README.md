@@ -21,8 +21,3 @@
 - 📩 Email: [me@yeosuwu.com](mailto:me@yeosuwu.com)  
 - 💻 GitHub: [github.com/Yeosuwu](https://github.com/Yeosuwu)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yeosuwu&show_icons=true&theme=gruvbox&hide_title=true" />
-</p>
