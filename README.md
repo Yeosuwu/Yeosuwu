@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Yeosuwu 👋</h1>
 <p align="center">
-  🛠️ Student | Developer | Privacy Enthusiast  
+  🛠️ Student | Developer 
 </p>
 
 ---
